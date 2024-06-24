@@ -1,16 +1,30 @@
-## Hi there 👋
+# ¡Hola, soy Morena Lezcano! 👋
 
-<!--
-**moreleZZZ/morelezzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Acerca de mí
+- 🧑 Mi nombre es **Morena Lezcano**
+- 🎂 Tengo **18 años**
+- 💤 Me gusta muchísimo **dormir**
+- 🍔 Me gusta comer **hamburguesas con Coca Cola**. ¡Tiene que ser con Coca Cola, porque sino me muero!
 
-Here are some ideas to get you started:
+### Planes futuros
+- 🎓 Cuando termine la secundaria, me voy a dedicar a **vender budines**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Intereses
+1. Comida
+    - Hamburguesas
+    - Coca Cola
+2. Sueño
+    - Dormir mucho
+
+### Coca Cola
+¡Aquí tienes una imagen de mi bebida favorita!
+
+![Coca Cola](https://upload.wikimedia.org/wikipedia/commons/1/1a/Coca-Cola_logo.svg)
+
+### Contacto
+Si quieres ponerte en contacto conmigo, puedes hacerlo a través de [mi correo electrónico](mailto:tu_email@example.com).
+
+---
+
+¡Gracias por visitar mi repositorio!
