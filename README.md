@@ -20,7 +20,9 @@
 ### Coca Cola
 ¡Aquí tienes una imagen de mi bebida favorita!
 
-![Coca Cola](# ¡Hola, soy Morena Lezcano! 👋
+![Coca Cola] (![image](https://github.com/moreleZZZ/morelezzz/assets/173705100/9ecd35f4-000a-4ffb-8825-026a9344bf2d)
+
+(# ¡Hola, soy Morena Lezcano! 👋
 
 ### Acerca de mí
 - 🧑 Mi nombre es **Morena Lezcano**
